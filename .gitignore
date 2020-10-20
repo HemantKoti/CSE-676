@@ -1,3 +1,13 @@
+# Don't include desktop.ini files
+*.ini
+
+# Folder exclusion
+model_history/
+weights/
+
+# Don't include report.docx
+report.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
