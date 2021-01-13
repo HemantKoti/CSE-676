@@ -4,6 +4,9 @@
 # Folder exclusion
 model_history/
 weights/
+Project2Reports/
+Project2Presentations/
+
 
 # Don't include report.docx
 report.docx

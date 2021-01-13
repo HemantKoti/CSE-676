@@ -1,0 +1,6 @@
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorboard>=2.2.0
+tqdm
